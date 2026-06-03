@@ -91,11 +91,18 @@ The corner and side brackets are printed to maximize mechanical durability for t
 - **DWG**: Drawings
 
 ## 💰 Needed
-**PAD**
+**PAD WITH 3D PRINTED**
 - 1x MDF 15mm / 18mm 840mm x 840mm
-- 5x MDF 10mm 280mm x 280mm
-- 4x Polycarbonate 5mm 279mm x 279mm
-- Over 60x printed pieces
+- 5x HDF 5mm 280mm x 280mm (BEWARE...it works but it bend)
+- 4x Polycarbonate 5mm 279mm x 279mm (yes...it bend and return in position)
+- Over 60x printed pieces (follow instructions)
+
+**PAD WITH WOOD (a lot less screw)**
+- 1x MDF 15mm / 18mm 840mm x 840mm
+- 5x MDF 10mm 280mm x 280mm (Easy fix on the corners)
+- 24x MDF 3.2mm 50mm x 50mm (for Polycarbonate corners, and FSR sensors)
+- 16x MDF 3.2MM 50mm x 25mm (for Polyarbonate sides)
+- 4x Polycarbonate 5mm 279mm x 279mm (yes...it bend and return in position)
 
 ## **PHOTOS**
 <img width="50%" height="50%" alt="20260529_163911" src="https://github.com/user-attachments/assets/6cf1459a-30c3-4a43-95ab-53479d8675c2" />
