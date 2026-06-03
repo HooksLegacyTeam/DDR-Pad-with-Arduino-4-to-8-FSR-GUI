@@ -1,0 +1,5 @@
+- **fsr.ino** : for flashing on Pro Micro ATmega32U4 5V 16MHz. This version contains special settings and post-processing
+- **fsrv2.ino** : Lite Version, direct e fully working
+- **DancePadConfig.exe** - GUI for your Pad Configuration
+
+- config_tool.py : Python tool for DDR Pad configuration if you need further mods
