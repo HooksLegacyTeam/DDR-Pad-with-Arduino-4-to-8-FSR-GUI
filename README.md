@@ -1,6 +1,15 @@
 # DDR Pad with Arduino 4 to 8 FSR + GUI
 A high-performance cheap DIY arcade dance pad built on a solid MDF frame, featuring 3D-printed PETG brackets and custom polycarbonate panels. Driven by an Arduino Pro Micro (1000Hz HID), it uses 8 FSR sensors in a parallel circuit with hardware RC filters to wipe out latency and electrical noise. The ultimate stamina build at a smart price!
 
+## 💖 Support the Project
+If you find this tool useful and want to support its development, consider buying me a coffee!
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](paypal.me/DanielMusanni)
+
+[[Support me by Downloading my game "Hook's Legacy" for Android](https://play.google.com/store/apps/details?id=com.HooksLegacyDev.HooksLegacyEp1))
+
+[[Support me by Downloading my game "Hook's Legacy" for Apple](https://apps.apple.com/it/app/hooks-legacy-ep-1/id6753951734))
+
 # 🕺 DIY FSR Custom Dance Pad - The Smart Budget Build
 
 A high-performance, arcade-grade DIY dance pad (DDR / ITG) built from scratch. This project bypasses overpriced pre-built kits and sponsored components to deliver rock-solid 1ms responsiveness on a smart budget.
